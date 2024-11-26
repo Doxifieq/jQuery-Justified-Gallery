@@ -1,0 +1,7 @@
+.wrapper {
+    width: 50%;
+}
+
+.wrapper.m-auto {
+    margin: 0 auto;
+}
